@@ -1,0 +1,248 @@
+{
+  "songs": [
+    {
+      "title": "Badass",
+      "artist": "Anirudh",
+      "featuredArtists": [
+        "Anirudh"
+      ],
+      "movie": "Leo",
+      "lyricist": "Super subu",
+      "genre": "Rock",
+      "language": "Tamil",
+      "releaseYear": "2024",
+      "duration": "3.49",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1790762928/rwn1x2ryxgonqq4pnat2.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1790762923/mdgbg34nyx0wlsdmc359.mp3",
+      "id": 4
+    },
+    {
+      "title": "Firestorm",
+      "artist": "Thaman",
+      "featuredArtists": [],
+      "movie": "They call him og",
+      "lyricist": "Thaman",
+      "genre": "Rock",
+      "language": "Telugu",
+      "releaseYear": "2025",
+      "duration": "4",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1790763200/epwyr9p1ncqpg4wmsc8w.webp",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1790763209/gofyb8qysr8eba9ezneh.mp3",
+      "id": 5
+    },
+    {
+      "title": "Innisai",
+      "artist": " A.R.Rahman",
+      "featuredArtists": [
+        "A.R.Rahman"
+      ],
+      "movie": "Varalaaru",
+      "lyricist": " A.R.Rahman",
+      "genre": "Classical",
+      "language": "Tamil",
+      "releaseYear": "2006",
+      "duration": "3.40",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1790778577/ox0mhwd7nfy1purmnzgo.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1790778420/xigaf9jrqephsc8kwfkg.mp3",
+      "id": 6
+    },
+    {
+      "title": " Pookal Pookum",
+      "artist": "G. V. Prakash Kumar",
+      "featuredArtists": [
+        "Roopkumar Rathod",
+        "Harini",
+        "Andrea Jeremiah"
+      ],
+      "movie": "Madharasapattinam",
+      "lyricist": " G. V. Prakash Kumar",
+      "genre": "Melody",
+      "language": "Tamil",
+      "releaseYear": "2010",
+      "duration": "6.37",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1790778689/n2vpw5tfo7roiocqzz1e.webp",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1790778705/jklpnjle2gnir5zkopfv.mp3",
+      "id": 8
+    },
+    {
+      "title": "Aaya Sher",
+      "artist": "Anirudh",
+      "featuredArtists": [
+        "Anirudh"
+      ],
+      "movie": "Paradise",
+      "lyricist": "Super subu",
+      "genre": "Pop",
+      "language": "Telugu",
+      "releaseYear": "2026",
+      "duration": "4.46",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791120301/ctishanjkkatr4r6lbh5.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791120331/mylseyjngmhrkc8w6zfg.mp3",
+      "id": 9
+    },
+    {
+      "title": "Radhima",
+      "artist": "Sai Abhyankar",
+      "featuredArtists": [
+        "Sai Abhyankkar",
+        "Bhagyashri Bose"
+      ],
+      "movie": "Radhima",
+      "lyricist": "Vivek",
+      "genre": "Melody",
+      "language": "Tamil",
+      "releaseYear": "2024",
+      "duration": "4.20",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791120475/jinqm8qsxcl76wspq4rq.webp",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791120500/grznvdgpmwlmgxtbh4jg.mp3",
+      "id": 10
+    },
+    {
+      "title": "Samajavaragamana",
+      "artist": "Sid Sriram",
+      "featuredArtists": [
+        "S. Thaman"
+      ],
+      "movie": "Ala Vaikunthapurramuloo",
+      "lyricist": "Sirivennela Seetharama Sastry",
+      "genre": "Melody",
+      "language": "Telugu",
+      "releaseYear": "2022",
+      "duration": "3.48",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791120679/trugh5xogfzu3vjojwqz.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791120696/hgkakep21kxa2qegfbui.mp3",
+      "id": 11
+    },
+    {
+      "title": "Namaste",
+      "artist": "Anirudh",
+      "featuredArtists": [
+        "Anirudh"
+      ],
+      "movie": "Dc",
+      "lyricist": "Super subu",
+      "genre": "Classical",
+      "language": "Tamil",
+      "releaseYear": "2026",
+      "duration": "2.30",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791120839/ccun28d4nztc7tyrpnce.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791120944/dlh0at2gryfwjodyzl8r.mp3",
+      "id": 12
+    },
+    {
+      "title": "Pavizha Malli",
+      "artist": "Sai Abhyankar",
+      "featuredArtists": [
+        "Sai Abhyankar"
+      ],
+      "movie": "Pavizhamalli Musical Album",
+      "lyricist": "Vivek",
+      "genre": "Melody",
+      "language": "Tamil",
+      "releaseYear": "2024",
+      "duration": "4.12",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791121166/mzyr9eptqbi0znaxhxti.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791121206/dmfsksr6854qie584ahy.mp3",
+      "id": 13
+    },
+    {
+      "title": "Aala Poran Tamizha",
+      "artist": "A.R.Rahman",
+      "featuredArtists": [],
+      "movie": "Mersal",
+      "lyricist": "Anoop",
+      "genre": "Folk",
+      "language": "Tamil",
+      "releaseYear": "2017",
+      "duration": "5.48",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791121689/pg6c0euibqe1kngz3r4s.jpg",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791121683/btnfmf8byj1vddby8m6o.mp3",
+      "id": 14
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Liked Songs",
+      "isLiked": true,
+      "songIds": [
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Night Drive",
+      "isLiked": false,
+      "songIds": []
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Chill Vibes",
+      "isLiked": false,
+      "songIds": []
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Workout",
+      "isLiked": false,
+      "songIds": []
+    },
+    {
+      "userId": 7,
+      "name": "Liked Songs",
+      "songIds": [
+        5,
+        9
+      ],
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Anoop Krishnan",
+      "email": "anoop@example.com",
+      "password": "anoop123"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Menon",
+      "email": "rahul@example.com",
+      "password": "rahul123"
+    },
+    {
+      "id": 3,
+      "name": "Meera Thomas",
+      "email": "meera@example.com",
+      "password": "meera123"
+    },
+    {
+      "id": 4,
+      "name": "Arjun Nair",
+      "email": "arjun@example.com",
+      "password": "arjun123"
+    },
+    {
+      "id": 5,
+      "name": "Anjali Joseph",
+      "email": "anjali@example.com",
+      "password": "anjali123"
+    },
+    {
+      "id": 6,
+      "name": "Vishnu Raj",
+      "email": "vishnu@example.com",
+      "password": "vishnu123"
+    },
+    {
+      "name": "anoop",
+      "email": "anoop123@gmail.com",
+      "password": "anoop",
+      "id": 7
+    }
+  ]
+}
