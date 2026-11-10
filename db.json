@@ -158,47 +158,48 @@
       "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791121689/pg6c0euibqe1kngz3r4s.jpg",
       "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791121683/btnfmf8byj1vddby8m6o.mp3",
       "id": 14
+    },
+    {
+      "title": "Adiye",
+      "artist": "wsACV",
+      "featuredArtists": [
+        "BDSZF"
+      ],
+      "movie": "FDSH",
+      "lyricist": "DBVZ",
+      "genre": "Melody",
+      "language": "English",
+      "releaseYear": "111",
+      "duration": "4.32",
+      "coverUrl": "https://res.cloudinary.com/ujjtwnme/image/upload/v1791988278/inxegnplkswhxzwrgplx.webp",
+      "audioUrl": "https://res.cloudinary.com/ujjtwnme/video/upload/v1791988307/nlx8xqye9bqrw4ddzgtv.mp3",
+      "id": 15
     }
   ],
   "playlists": [
     {
-      "id": 1,
-      "userId": 1,
-      "name": "Liked Songs",
-      "isLiked": true,
-      "songIds": [
-        2
-      ]
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "name": "Night Drive",
-      "isLiked": false,
-      "songIds": []
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "name": "Chill Vibes",
-      "isLiked": false,
-      "songIds": []
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "name": "Workout",
-      "isLiked": false,
-      "songIds": []
-    },
-    {
       "userId": 7,
       "name": "Liked Songs",
       "songIds": [
-        5,
-        9
+        9,
+        13,
+        14
       ],
       "id": 5
+    },
+    {
+      "userId": 8,
+      "name": "Liked Songs",
+      "songIds": [],
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "name": "annna",
+      "songIds": [
+        5
+      ],
+      "id": 7
     }
   ],
   "users": [
@@ -243,6 +244,12 @@
       "email": "anoop123@gmail.com",
       "password": "anoop",
       "id": 7
+    },
+    {
+      "name": "anoop",
+      "email": "anoop123@gmail.com",
+      "password": "anoop",
+      "id": 8
     }
   ]
 }
